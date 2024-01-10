@@ -1,0 +1,6 @@
+{{ $random := delimit (shuffle (seq 1 9)) "" }}
+{{ $id := delimit (slice "gallery" $random now.UnixNano) "-" }}
+
+<div id="{{ $id }}" class="gallery">
+  {{ .Inner }}
+</div>

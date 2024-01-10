@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+   name = "TressaPhD"
+#   image = "img/blowfish_logo.png"
+#   headline = "I'm only human"
+#   bio = "A little bit about you"
+   links = [
+  { email = "tressapantalena@outlook.com" },
+#     { link = "https://link-to-some-website.com/" },
+#     { github = "https://github.com/username" },
+  { instagram = "https://instagram.com/tressaphd" },
+  { linkedin = "https://linkedin.com/in/tressap" },
+  { researchgate = "https://www.researchgate.net/profile/tressa-pantalena" },
+  { tiktok = "https://tiktok.com/@tressaphd" },
+  { twitter = "https://twitter.com/tressapantalena" },
+  { youtube = "https://www.youtube.com/channel/UCHgQvks7vA_DgL8k8R8-Qzw" },
+   ]
