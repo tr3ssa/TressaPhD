@@ -19,7 +19,6 @@ title = "Blowfish"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
    links = [
-  { email = "tressapantalena@outlook.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { github = "https://github.com/username" },
   { instagram = "https://instagram.com/tressaphd" },
