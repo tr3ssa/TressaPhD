@@ -16,7 +16,9 @@ In my free time, I love to read! I'm currently reading the "ACOTAR" series by SJ
 
 **III. My Research Interests***
 Currently, I work in my school's Behavioral Neuroscience Labs. Our experiments mostly revolve around motivation and behavior by comparing disease states to control states. More information to come in future posts!
+
 I have a passion for using science to explain behavior, and always have. I started college as a psychology major, because that's what I thought the study of behavior was all about. Turns out, there is a whole world of neuroscience with so many niches to be discovered! After taking my current PI's physiopsychology class, I was immediately pulled towards the neuroscience major, as it is more natural science focused. Many psychology classes at my university focus more on the social work end-goal skills and knowledge, due to their MSW program.
+
 I have interests in neuropharmacology and neurobiology at the moment. Understanding drug actions and how chemicals can dictate one's behavior fascinate me. I plan to write a lot of posts focusing on how the tiny chemicals floating around in your head can change the course of your life and your actions. My favorite takeaways from neuroscience courses are always the facts that can be applied to daily life!
 
 **IV. My Future**
