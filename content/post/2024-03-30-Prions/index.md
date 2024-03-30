@@ -4,7 +4,7 @@ author: Tressa
 date: '2024-03-30'
 slug: []
 categories: []
-tags: ["prions", "mad cow disease"]
+tags: ["Prions", "Mad Cow Disease", "TSEs"]
 description: ''
 ---
 **Introduction** |
